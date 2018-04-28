@@ -1,1 +1,0 @@
-export const THEATER_ID = 50;
